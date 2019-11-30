@@ -1,0 +1,9 @@
+Day fraction since midnight on 11/29/2019	 State ID	 State name	 Rule that caused previous state to end
+0.45150438	2	Water 	Operator changed the state
+0.49983304	0	OFF	Operator changed the state
+0.50302046	2	Water 	Operator changed the state
+0.50363161	3	Warmup	Operator changed the state
+0.51463173	0	OFF	Operator changed the state
+0.51471605	3	Warmup	Operator changed the state
+0.54106305	0	OFF	Operator changed the state
+0.54110337	1	Run	Operator changed the state
