@@ -10,3 +10,7 @@ Day fraction since midnight on 11/27/2019	 State ID	 State name	 Rule that cause
 0.51094761	0	OFF	Operator changed the state
 0.51148196	1	Run	Operator changed the state
 0.76108923	0	OFF	Operator changed the state
+Day fraction since midnight on 11/27/2019	 State ID	 State name	 Rule that caused previous state to end
+0.76571921	0	OFF	Operator changed the state
+0.76574024	2	Warmup	Operator changed the state
+0.78018392	0	OFF	Operator changed the state
