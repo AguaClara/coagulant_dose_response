@@ -8,5 +8,5 @@ The Fall 2019 Unit Processes Analysis Coagulant (UPAC) team’s objective is to 
 ## Spring 2019
 * [Report](https://github.com/AguaClara/Floc_coagulant/blob/master/Second_Report_Draft_UPA_Coagulant.ipynb)
 * [Symposium](https://docs.google.com/presentation/d/1dVlVuRTzcdeqtzu9DQawzd2ZevpWPfZ2GvQv3ysUJts/edit?usp=sharing)
-* [Final Presentation]
-* [Video]
+* [Final Presentation] (https://docs.google.com/presentation/d/17R9R3yaxf0KFc-gN-TxP1hMPx_3xMuoKo7blyDR1--c/edit?usp=sharing)
+* [Video] (https://www.youtube.com/watch?v=pupIdx8HcZU&list=PLhsGtpY8ipdbPRIXbSapShc0mjhFR_Nzr&index=8&t=310s)
