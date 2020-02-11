@@ -4,7 +4,7 @@ The Fall 2019 Unit Processes Analysis Coagulant (UPAC) team’s objective is to 
 ## Current Members 
 * Rafaella Bruzual (rb697)
 * Joseph Yoon (sy555)
-* Rachel Mends (rem367)
+* Rachael Mends (rem367)
 * Marguerite Lorenzo (mhl95)
 
 ## Spring 2019
