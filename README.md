@@ -5,7 +5,6 @@ The Fall 2019 Unit Processes Analysis Coagulant (UPAC) team’s objective is to 
 * Rafaella Bruzual (rb697)
 * Joseph Yoon (sy555)
 * Rachael Mends (rem367)
-* Marguerite Lorenzo (mhl95)
 
 ## Spring 2019
 * [Report](https://github.com/AguaClara/coagulent_dose_response/blob/master/Final_Report_Draft_UPA_Coagulant%20(3).ipynb)
