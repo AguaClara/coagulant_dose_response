@@ -1,10 +1,11 @@
-# Unit Processes Analysis: Coagulant (UPAC)
-The Fall 2019 Unit Processes Analysis Coagulant (UPAC) team’s objective is to reduce capital and operating costs and improve particle removal efficiency for the AguaClara water treatment process, specifically by analyzing the response of the system to varying coagulant dosage. To analyze the system response, we will run a series of trials on a treatment plant sedimentation model, varying the coagulant dosage and recording observations regarding the effluent turbidity, floc formation, and floc blanket formation. Through this experiment, the team will be able to establish a minimum coagulant dosage, which could lower operating costs, and to learn valuable information about the interactions between coagulant and the primary particles of the influent water at high coagulant dosages.
+# Coagulant Dosing 
+The Spring 2024 Coagulant Dosing subteam’s objective is to come up with a model that accounts for removal mechanism of flocs falling through a column.
+To do so, we will explore the physics of coagulant dosing, edit the current equation, fit the new equation to CWFP Data, run tests on Plantita, and analyze the results.
 
 ## Current Members 
-* Rafaella Bruzual (rb697)
-* Joseph Yoon (sy555)
-* Rachael Mends (rem367)
+* Kayla Stephenson (ks929)
+* Alex Van Den Hende (ajv85)
+* Sweksha Mehta (sm2593)
 
 ## Spring 2019
 * [Report](https://github.com/AguaClara/coagulent_dose_response/blob/master/Final_Report_Draft_UPA_Coagulant%20(3).ipynb)
