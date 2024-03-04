@@ -6,6 +6,7 @@ To do so, we will explore the physics of coagulant dosing, edit the current equa
 * Kayla Stephenson (ks929)
 * Alex Van Den Hende (ajv85)
 * Sweksha Mehta (sm2593)
+* Ulises Balbuena (umb5)
 
 ## Spring 2019
 * [Report](https://github.com/AguaClara/coagulent_dose_response/blob/master/Final_Report_Draft_UPA_Coagulant%20(3).ipynb)
