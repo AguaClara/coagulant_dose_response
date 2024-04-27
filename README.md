@@ -10,7 +10,7 @@ To do so, we will explore the physics of coagulant dosing, edit the current equa
 
 ## Spring 2024
 * [Derivations](https://colab.research.google.com/drive/1YwQLrKsfQBnZpyxkhkR-J3BxDvmhKuf8#scrollTo=VhtLE6WamuIH)
-* [Report]()
+* [Report](https://docs.google.com/document/d/13hU1i0OqB2oSulMm5LXrvM8ShhPsUUzaSmrixCLsQRs/edit?usp=sharing)
 * [Symposium](https://docs.google.com/presentation/d/1o__UwZto8m9bd4Zb2VldhDXe3LF79g3E9S2M3_9BVq0/edit?usp=sharing)
 * [Final Presentation](https://cornellprod-my.sharepoint.com/:p:/r/personal/ks929_cornell_edu/Documents/SP24%20Coagulant%20Dosing.pptx?d=wbe2e3add736e4d03b83be36fab73f0e3&csf=1&web=1&e=vRVh3A)
 
