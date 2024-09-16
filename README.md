@@ -1,12 +1,12 @@
 # Coagulant Dosing 
-The Spring 2024 Coagulant Dosing subteam’s objective is to come up with a model that accounts for removal mechanism of flocs falling through a column.
-To do so, we will explore the physics of coagulant dosing, edit the current equation, fit the new equation to CWFP Data, run tests on Plantita, and analyze the results.
+The Fall 2024 Coagulant Dosing subteam’s objective is to continue researching how to improve the coagulant dosing equation. Experiments will be designed and ran to uncover what could be missing from the model & to better understand floc dynamics in the clarifier and floc blanket. The fitted value for constant k_c is currently higher than its theoretical value, and we hope to discover why.
+
 
 ## Current Members 
 * Kayla Stephenson (ks929)
-* Alex Van Den Hende (ajv85)
-* Sweksha Mehta (sm2593)
-* Ulises Balbuena (umb5)
+* Christine Berlingeri (cnb53)
+* Anjali Asthagiri (aa2549)
+* Ulises Balbuena Figueroa (umb5)
 
 ## Spring 2024
 * [Derivations](https://colab.research.google.com/drive/1YwQLrKsfQBnZpyxkhkR-J3BxDvmhKuf8#scrollTo=VhtLE6WamuIH)
