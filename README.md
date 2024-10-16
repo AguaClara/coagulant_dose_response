@@ -7,6 +7,7 @@ The Fall 2024 Coagulant Dosing subteam’s objective is to continue researching 
 * Christine Berlingeri (cnb53)
 * Anjali Asthagiri (aa2549)
 * Ulises Balbuena Figueroa (umb5)
+* Alex Gardocki (rag325)
 
 ## Spring 2024
 * [Derivations](https://colab.research.google.com/drive/1YwQLrKsfQBnZpyxkhkR-J3BxDvmhKuf8#scrollTo=VhtLE6WamuIH)
