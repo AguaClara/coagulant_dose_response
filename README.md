@@ -1,8 +1,13 @@
-# Coagulant Dosing 
-The Fall 2024 Coagulant Dosing subteam’s objective is to continue researching how to improve the coagulant dosing equation. Experiments will be designed and ran to uncover what could be missing from the model & to better understand floc dynamics in the clarifier and floc blanket. The fitted value for constant k_c is currently higher than its theoretical value, and we hope to discover why.
+# Automated Coagulant Dosing Control
+The Spring 2025 Automated Coagulant Dosing Control (ACDC) subteam focuses on (1) developing an algorithm to determine optimal coagulant doses given fluctuating turbidity conditions, and (2) beginning the integration of the software and hardware for an automated dosing system. 
 
+## Spring 2025
+* Claire Wang (cyw34)
+* Becca Jeffries (rcj63)
+* Ananya Bansal (ab2836)
+* Claire Chiu (cc2873)
 
-## Current Members 
+## Fall 2024
 * Kayla Stephenson (ks929)
 * Christine Berlingeri (cnb53)
 * Anjali Asthagiri (aa2549)
