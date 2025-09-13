@@ -1,5 +1,5 @@
 # Automated Coagulant Dosing Control
-The Spring 2025 Automated Coagulant Dosing Control (ACDC) subteam focuses on (1) developing an algorithm to determine optimal coagulant doses given fluctuating turbidity conditions, and (2) beginning the integration of the software and hardware for an automated dosing system. 
+The Fall 2025 Automated Coagulant Dosing Control (ACDC) subteam focuses on (1) developing an algorithm to determine optimal coagulant doses given fluctuating turbidity conditions, and (2) beginning the integration of the software and hardware for an automated dosing system. 
 
 ## Fall 2025
 * Claire Wang (cyw34)
