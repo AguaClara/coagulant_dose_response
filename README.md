@@ -6,6 +6,8 @@ The Fall 2025 Automated Coagulant Dosing Control (ACDC) subteam focuses on (1) d
 * Becca Jeffries (rcj63)
 * Claire Chiu (cc2873)
 * Ayesha Abdiel (asa253)
+* Grace Raab (gar238)
+* Armaan Chandak (ac2992)
 
 ## Spring 2025
 * Claire Wang (cyw34)
